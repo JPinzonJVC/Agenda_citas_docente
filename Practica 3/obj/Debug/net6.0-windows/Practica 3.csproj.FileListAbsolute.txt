@@ -1,0 +1,30 @@
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.exe
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.deps.json
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.runtimeconfig.json
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.pdb
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.csproj.AssemblyReference.cache
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.csproj.GenerateResource.cache
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.AssemblyInfoInputs.cache
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.AssemblyInfo.cs
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.csproj.CopyComplete
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\refint\Practica 3.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.pdb
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.genruntimeconfig.cache
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\ref\Practica 3.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica_3.FrmPrincipal.resources
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica_3.frmAgendar.resources
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.dll.config
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica_3.frmConAgendaFecha.resources
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica_3.Properties.Resources.resources
+C:\Users\Jhoan\source\repos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica_3.frmConAgendaDoc.resources
